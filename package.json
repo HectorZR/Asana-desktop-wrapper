@@ -1,0 +1,12 @@
+{
+  "name": "asana-desktop-wrapper",
+  "version": "1.0.0",
+  "description": "This is an Asana wrapper desktop, to separate Asana from browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hector Zurga",
+  "license": "MIT"
+}
